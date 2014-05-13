@@ -9,7 +9,7 @@ It was built for OS X, but with small changes it can surely run on Linux.
 - Set a CLI audio player (such as qtplay) and the path to the sunrise directory in sunrise.sh
 - add a LaunchAgent to ~/Library/LaunchAgents. Example de.l3vi.sunrise.plist:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
